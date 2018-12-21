@@ -1,4 +1,3 @@
-package com.example.junit;
 
 import java.util.Scanner;
 import java.util.List;
